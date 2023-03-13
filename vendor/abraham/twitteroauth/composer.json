@@ -50,6 +50,9 @@
   "autoload": {
     "psr-4": {
       "Abraham\\TwitterOAuth\\": "src"
+      "require": {
+  "ext-mbstring": "*"
+},
     }
   }
 }
