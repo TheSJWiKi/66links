@@ -55,6 +55,9 @@
   "autoload-dev": {
     "psr-4": {
       "Tests\\YooKassa\\": "tests/"
-    }
+    },
+    "require": {
+  "ext-mbstring": "*"
+}
   }
 }
