@@ -9,7 +9,7 @@ return (object) [
     'url' => 'https://altumco.de/affiliate-plugin',
     'author' => 'AltumCode',
     'author_url' => 'https://altumcode.com/',
-    'status' => 'inexistent',
+    'status' => 'uninstalled',
     'actions'=> true,
     'avatar_style' => 'background: #2FF0A9;background: -webkit-linear-gradient(top right, #2FF0A9, #D2CF60);background: -moz-linear-gradient(top right, #2FF0A9, #D2CF60);background: linear-gradient(to bottom left, #2FF0A9, #D2CF60);',
     'icon' => '💰',
